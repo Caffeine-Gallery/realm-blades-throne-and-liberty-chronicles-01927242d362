@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #f4f4f4;
+    padding: 1rem;
+    text-align: center;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+article {
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 1rem;
+}
+
+article img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+}
+
+#weapons {
+    background-color: #f9f9f9;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+#weapons-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#weapons-list li {
+    margin-bottom: 0.5rem;
+}
